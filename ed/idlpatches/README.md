@@ -4,7 +4,7 @@ These are patches applied to the Web IDL scraped from specs to produce `@webref/
 
 ## Creating patches
 
-Using SVG as an example:
+Using SVG as an example:ed/idlpatches/SVG.idl.patch
 
 - Open a pull request or issue for the spec.
 - Make the necessary changes to `ed/idl/SVG.idl` and commit that locally as a single commit. Reference the spec issue/PR in the commit message.
